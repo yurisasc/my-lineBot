@@ -1,5 +1,5 @@
 {
-  "name": "@my-lineBot",
+  "name": "@line/bot-sdk",
   "version": "2.0.0",
   "description": "Node.js SDK for LINE Messaging API",
   "engines": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:yurisasc/my-lineBot.git"
+    "url": "git@github.com:line/line-bot-sdk-nodejs.git"
   },
   "keywords": [
     "node",
